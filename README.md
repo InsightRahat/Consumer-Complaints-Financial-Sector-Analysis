@@ -60,10 +60,6 @@ Conclusion:
 This project provides actionable insights into how financial institutions handle consumer complaints. The analysis highlights the need for better response times, especially in certain regions, and improvements in customer satisfaction through more effective resolutions.
 
 
-Contributing:
-
-Feel free to contribute to this project by submitting pull requests or opening issues for discussion. We welcome suggestions for improvement!
-
 
 License:
 
